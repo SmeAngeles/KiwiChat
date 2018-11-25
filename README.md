@@ -46,4 +46,4 @@ Make sure to place composer's system-wide vendor bin directory in your $PATH so 
 - Creat a new project
 >composer create-project --prefer-dist laravel/laravel newProject
 
-
+Laravel site  [here][2]
